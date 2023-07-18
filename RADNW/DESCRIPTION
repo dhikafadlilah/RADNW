@@ -1,0 +1,11 @@
+Package: RADNW
+Type: Package
+Title: MLE, Golden Ratio, Uji Hipotesis Satu Sampel t
+Version: 0.1.0
+Author: Wulan Oktaviani (21611028), Najla Lathifah Mumtaz (21611041), Dhika Nurul Fadlilah (21611074), Alya Ambarningrum (21611078), Renata Dora Amalia Putri (21611084)
+Maintainer: Dhika <21611074@students.uii.ac.id>
+Description: Mencari nilai parameter yang memberi kemungkinan atau likelihood yang paling besar untuk mendapatkan data yang terobservasi sebagai estimator pada distribusi normal, Mencari nilai minimizer suatu fungsi dengan metode golden ratio, Menguji pernyataan yang diajukan tentang populasi berdasarkan data dari satu sampel
+License: GPL-2|GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.0.2), stats4 (>= 0.1.0)
